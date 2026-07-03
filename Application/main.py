@@ -18,7 +18,7 @@ import analyse_q3
 import analyse_q4
 from utils import titre
 
-NOM_CHEF_GROUPE = "Franck Emery"
+NOM_CHEF_GROUPE = "PUYUENPOUOPAWOUO MOUNCHILI ADRIEN"
 N_ETUDIANTS = 320
 
 
