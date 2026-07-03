@@ -139,7 +139,7 @@ def generer_donnees(graine: int, n: int = 320) -> tuple[pd.DataFrame, pd.Series]
 # ------------------------------------------------------------------
 
 if __name__ == "__main__":
-    NOM_CHEF_GROUPE = "Franck Emery"
+    NOM_CHEF_GROUPE = "PUYUENPOUOPAWOUO MOUNCHILI ADRIEN"
     N_ETUDIANTS = 320
 
     graine = nom_vers_graine(NOM_CHEF_GROUPE)
