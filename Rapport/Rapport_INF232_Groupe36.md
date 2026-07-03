@@ -26,7 +26,7 @@ supervisée/non supervisée nécessaires aux quatre questions du thème.
 Le nom complet du chef de groupe est d'abord normalisé : mis en majuscules,
 débarrassé de ses accents et de ses espaces.
 
-> `"Franck Emery"` → `"FRANCKEMERY"`
+> `"PUYUENPOUOPAWOUO MOUNCHILI ADRIEN"` → `"PUYUENPOUOPAWOUOMOUNCHILIADRIEN"`
 
 Cette chaîne est ensuite transformée en un entier reproductible (la **graine
 du groupe**) via une fonction de hachage polynomial déterministe :
